@@ -1,0 +1,8 @@
+.world {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: -webkit-linear-gradient(#28157e, #1f21b4);
+	background: linear-gradient(#1f35b4, #291fb4);
+}
